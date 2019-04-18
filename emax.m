@@ -48,3 +48,4 @@ ta=ta(2:n_x);
 
 ma=ma';
 ta=ta';
+p=ta;
